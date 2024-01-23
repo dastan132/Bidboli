@@ -1,0 +1,94 @@
+  @media screen and (min-width: 319px) and (max-width: 576px) {
+    .sm_tex {
+      font-size: 14px;
+    }
+
+    .sm_tex {
+      font-size: 14px;
+    }
+
+    .white_box_hei {
+      padding-top: 40px;
+      min-height: 90vh;
+    }
+
+    .blue_box_hei {
+      padding-top: 40px;
+      min-height: 50vh;
+    }
+
+    .display_offcan {
+      display: block;
+    }
+
+    .display_slid {
+      display: none;
+    }
+
+    .text_end {
+      text-align: center;
+    }
+
+    .offcanvas {
+      width: 70%;
+    }
+  }
+
+  @media screen and (min-width: 577px) and (max-width: 800px) {
+    .white_box_hei {
+      padding-top: 80px;
+      min-height: 100vh;
+    }
+
+    .blue_box_hei {
+      padding-top: 130px;
+      min-height: 100vh;
+    }
+
+    .display_offcan {
+      display: block;
+    }
+
+    .display_slid {
+      display: none;
+    }
+
+    .offcanvas {
+      width: 40%;
+    }
+  }
+
+  @media screen and (min-width: 801px) and (max-width: 1024px) {
+    .white_box_hei {
+      padding-top: 80px;
+      min-height: 100vh;
+    }
+
+    .blue_box_hei {
+      padding-top: 130px;
+      min-height: 100vh;
+    }
+
+    .display_offcan {
+      display: none;
+    }
+
+    .display_slid {
+      display: block;
+    }
+  }
+
+  @media screen and (min-width:1025px) {
+    .tex17 {
+      font-size: 17px;
+    }
+  }
+
+  /*# sourceMappingURL=media.css.map */
+
+
+  @media screen and (min-width: 1600px) {
+    .carousel-container {
+      min-width: 534px;
+    }
+  }
